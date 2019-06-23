@@ -1,2 +1,5 @@
-# Event-calendar
-Simple console based calendar that allows users to add few types of events and keep track about them. It was created as semestral project.
+# Event calendar
+Created as semestral work for "programming and algoritmization 2" course in C++.
+Project contain makefile and have simple UI.
+
+Simple console based calendar that allows to manage users and to add few types of events and keep track about them.
