@@ -1,0 +1,18 @@
+Plánovací kalendář
+
+Aplikace pro správu kalendáře s možností vytvářet události a jejich hledání.
+Aplikace spravuje plánovací kalendáře pro různé uživatele ( každý má vlastní kalendář )
+Existují 3 typy událostí: 1.povinné, 2.volitelné, 3.přesouvatelné
+Implementace následujících funcionalit:
+
+    denní, týdenní a měsíční zobrazení kalendáře a zobrazení všech událostí
+    vytváření a mazání eventů (čas, místo, datum, délka trvání, plus speciální attribut, která se liší podle typu události )
+    možnost nastavit události opakování ( opakuje se po počtu dnů, které uživatel zadá (0-400))
+    hledat události podle názvu nebo místa konání
+    hledat nejbližší možný termín
+    možnost přesouvat události ( jen ty, které to umožňují )
+    exportování a importování událostí
+    změna uživatele
+
+Použití polymorfismu
+    druhy událostí: povinná, volitelná, přesunutelná
