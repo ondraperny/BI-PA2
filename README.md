@@ -15,4 +15,4 @@ make clean
 
 Menu
 ---
-![menu](src/menu.JPG)
+![menu](src/Menu.JPG)
